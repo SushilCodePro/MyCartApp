@@ -1,0 +1,15 @@
+.navbar{
+    background-color:#5252a3;
+    color:white;
+  }
+  
+  .cart{
+    background-color:#a9adaa;
+  }
+  
+  .cartItem{
+    background-color:#abe2e1;
+  }
+  .totalPrice{
+    background-color:#7dc589;
+  }
