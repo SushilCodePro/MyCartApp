@@ -55,7 +55,7 @@ function CartItem({ item,firebaseApp}) {
     return (
       <div className="cart-item">
         <div className="left-block">
-          <img style={styles.image} src={item.image} />
+          <img style={styles.image} src={item.image} alt="Product" />
         </div>
         <div className="right-block">
           <div>Name:{item.name}</div>
